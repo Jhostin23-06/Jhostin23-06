@@ -12,10 +12,10 @@
 - 🔄 **Sistemas de Tracking** - Seguimiento en tiempo real de flotas y envíos
 
 ### 🛠 Stack Tecnológico Principal
-- ⚛️ **Frontend:** React.js, JavaScript, HTML5, CSS3
-- 🐍 **Backend:** Python + FastAPI, PHP, Node.js
-- 🗄️ **Bases de Datos:** PostgreSQL, InformixDB, MySQL
-- 🔧 **Herramientas:** Postman, Git, Bootstrap, Hibernate
+- ⚛️ **Frontend:** React.js, JavaScript, TailwindCSS, MaterialUI, AntDesign
+- 🐍 **Backend:** Python + FastAPI, PHP
+- 🗄️ **Bases de Datos:** PostgreSQL, InformixDB
+- 🔧 **Herramientas:** Postman, Git
 
 ### 🚀 Enfoque Actual
 - 🔗 Desarrollo de APIs REST con FastAPI y Python
