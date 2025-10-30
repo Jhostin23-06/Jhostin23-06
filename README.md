@@ -2,9 +2,7 @@
 <div align="left">
 
 🌟 **¡Hola! Soy Jhostin Bravo**  
-🚀 *Full-Stack Developer & Logistics Tech Specialist*  
-
-<br>
+🚀 *Full-Stack Developer*  
 
 ### 💼 Experiencia Profesional
 - 💻 **Desarrollador Web en Empresa Logística**
