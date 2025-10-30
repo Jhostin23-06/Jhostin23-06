@@ -1,72 +1,38 @@
 ## 💫 Sobre mi:
-<div align="center">
-  
-🌟 ¡Hola! Soy <strong>Jhostin Bravo</strong> 🌟<br>
-🚀 <em>Full-Stack Developer & Logistics Tech Specialist</em><br><br>
+<div align="left">
 
-<!-- Tarjetas Modernas -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+🌟 **¡Hola! Soy Jhostin Bravo**  
+🚀 *Full-Stack Developer & Logistics Tech Specialist*  
 
-  <!-- Tarjeta Experiencia -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <h3 style="color: white; margin: 0 0 15px 0;">💼 Experiencia Profesional</h3>
-    <ul style="color: white; text-align: left; margin: 0; padding-left: 20px;">
-      <li>💻 Desarrollador Web en Logística</li>
-      <li>📊 Sistemas de Gestión de Inventario</li>
-      <li>🚚 Optimización de Rutas</li>
-      <li>⚡ Mejora de Eficiencia Operativa</li>
-    </ul>
-  </div>
+<br>
 
-  <!-- Tarjeta Tecnologías -->
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <h3 style="color: white; margin: 0 0 15px 0;">🛠 Stack Tecnológico</h3>
-    <ul style="color: white; text-align: left; margin: 0; padding-left: 20px;">
-      <li>⚛️ React.js & JavaScript</li>
-      <li>🐍 Python + FastAPI</li>
-      <li>🐘 PostgreSQL & InformixDB</li>
-      <li>📱 Postman & Git</li>
-    </ul>
-  </div>
+### 💼 Experiencia Profesional
+- 💻 **Desarrollador Web en Empresa Logística**
+- 📊 Especializado en sistemas de gestión de inventario
+- 🚚 Desarrollo de soluciones para optimización de rutas
+- ⚡ Implementación de mejoras para eficiencia operativa
 
-</div>
+### 🛠 Stack Tecnológico Principal
+- ⚛️ **Frontend:** React.js, JavaScript, HTML5, CSS3
+- 🐍 **Backend:** Python + FastAPI, PHP, Node.js
+- 🗄️ **Bases de Datos:** PostgreSQL, InformixDB, MySQL
+- 🔧 **Herramientas:** Postman, Git, Bootstrap, Hibernate
 
-<!-- Segunda Fila de Tarjetas -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+### 🚀 Enfoque Actual
+- 🔗 Desarrollo de APIs REST con FastAPI y Python
+- 🎨 Creación de interfaces modernas con React.js
+- 📈 Gestión y optimización de bases de datos
+- 🧪 Testing y documentación de APIs con Postman
 
-  <!-- Tarjeta Especialidades -->
-  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <h3 style="color: white; margin: 0 0 15px 0;">🚀 Especialidades</h3>
-    <ul style="color: white; text-align: left; margin: 0; padding-left: 20px;">
-      <li>🔗 APIs REST con FastAPI</li>
-      <li>🎨 Interfaces React Modernas</li>
-      <li>📈 Optimización de Bases de Datos</li>
-      <li>🧪 Testing con Postman</li>
-    </ul>
-  </div>
+### 🌱 Objetivos Profesionales
+- 🏗️ Profundizar en arquitecturas de microservicios
+- ☁️ Explorar tecnologías cloud aplicadas a logística
+- 🤝 Contribuir a proyectos open-source del sector
+- 🚀 Crecimiento continuo y aprendizaje de nuevas tecnologías
 
-  <!-- Tarjeta Objetivos -->
-  <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <h3 style="color: white; margin: 0 0 15px 0;">🌱 Mi Camino</h3>
-    <ul style="color: white; text-align: left; margin: 0; padding-left: 20px;">
-      <li>🏗 Arquitecturas Microservicios</li>
-      <li>☁️ Tecnologías Cloud</li>
-      <li>🤝 Proyectos Open Source</li>
-      <li>🚀 Crecimiento Continuo</li>
-    </ul>
-  </div>
+<br>
 
-</div>
-
-<!-- Llamada a la Acción -->
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 30px; border-radius: 20px; margin: 40px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-  <h2 style="color: #333; margin: 0 0 15px 0;">💡 ¿Tienes un Proyecto Innovador?</h2>
-  <p style="color: #333; font-size: 18px; margin: 0 0 20px 0;">¡Hablemos y creemos algo increíble juntos! 🚀</p>
-  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://linkedin.com/in/jhostinbravo23" style="background: #0077b5; color: white; padding: 12px 25px; border-radius: 25px; text-decoration: none; font-weight: bold; transition: transform 0.3s;">📱 Conectemos en LinkedIn</a>
-    <a href="https://instagram.com/jhostinbravo23" style="background: #e4405f; color: white; padding: 12px 25px; border-radius: 25px; text-decoration: none; font-weight: bold; transition: transform 0.3s;">📸 Sígueme en Instagram</a>
-  </div>
-</div>
+> 💡 **¿Tienes un proyecto interesante?** ¡Me encantaría conversar contigo y explorar cómo podemos trabajar juntos!
 
 </div>
 
