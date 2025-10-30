@@ -1,5 +1,54 @@
 ## 💫 Sobre mi:
-👋 ¡Hola! Soy Jhostin, desarrollador web full-stack de 24 años con experiencia en el sector logístico. Combino mis estudios en Computación e Informática con mi trabajo profesional desarrollando soluciones tecnológicas para optimizar procesos de cadena de suministro.<br><br>💼 Experiencia Profesional:<br>- Desarrollador web en empresa logística<br>- Especializado en aplicaciones web para gestión de inventario, tracking y optimización de rutas<br>- Implementación de sistemas que mejoran la eficiencia operativa<br><br>🛠 Tecnologías Principales:<br>- Frontend: React.js, JavaScript, HTML5, CSS3<br>- Backend: Python/FastAPI, PHP<br>- Bases de Datos: PostgreSQL, InformixDB<br>- Herramientas: Postman, Git, TailwindCSS<br><br>🚀 Enfoque Actual:<br>- Desarrollo de APIs REST con FastAPI y Python<br>- Interfaces de usuario con React.js para sistemas logísticos<br>- Gestión y optimización de bases de datos PostgreSQL e Informix<br>- Pruebas y documentación de APIs con Postman<br><br>🌱 Objetivos:<br>- Profundizar en arquitecturas de microservicios<br>- Explorar tecnologías cloud para logística<br>- Contribuir a proyectos open-source del sector<br><br>📫 ¿Tienes un proyecto interesante? ¡Hablemos!<br><br>
+<div align="center">
+  
+🌟<br>
+👋 ¡Hola! Soy <strong>Jhostin</strong>, desarrollador web full-stack de 24 años con experiencia en el sector logístico.<br>
+💼 Combino mis estudios en <strong>Computación e Informática</strong> con mi trabajo profesional desarrollando soluciones tecnológicas para optimizar procesos de cadena de suministro.<br><br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>💼 Experiencia Profesional:</strong><br>
+      • Desarrollador web en empresa logística<br>
+      • Especializado en aplicaciones web para gestión de inventario<br>
+      • Tracking y optimización de rutas<br>
+      • Implementación de sistemas que mejoran la eficiencia operativa
+    </td>
+    <td valign="top" width="50%">
+      <strong>🛠 Tecnologías Principales:</strong><br>
+      • <strong>Frontend:</strong> React.js, JavaScript<br>
+      • <strong>Backend:</strong> Python/FastAPI, PHP<br>
+      • <strong>Bases de Datos:</strong> PostgreSQL, InformixDB<br>
+      • <strong>Herramientas:</strong> Postman, Git
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🚀 Enfoque Actual:</strong><br>
+      • Desarrollo de APIs REST con FastAPI<br>
+      • Interfaces de usuario con React.js<br>
+      • Gestión de bases de datos PostgreSQL/Informix<br>
+      • Pruebas de APIs con Postman
+    </td>
+    <td valign="top" width="50%">
+      <strong>🌱 Objetivos:</strong><br>
+      • Arquitecturas de microservicios<br>
+      • Tecnologías cloud para logística<br>
+      • Proyectos open-source del sector<br>
+      • Crecimiento profesional continuo
+    </td>
+  </tr>
+</table>
+
+<br>
+📫 <strong>¿Tienes un proyecto interesante?</strong> ¡Hablemos!<br>
+
+</div>
 
 
 ## 🌐 Socials:
