@@ -5,10 +5,11 @@
 🚀 *Full-Stack Developer*  
 
 ### 💼 Experiencia Profesional
-- 💻 **Desarrollador Web en Empresa Logística**
-- 📊 Especializado en sistemas de gestión de inventario
-- 🚚 Desarrollo de soluciones para optimización de rutas
-- ⚡ Implementación de mejoras para eficiencia operativa
+- 🗺️ **Desarrollo de soluciones de tracking y ubicación en tiempo real**
+- 🚚 **Sistemas end-to-end para optimización de distribución**
+- 📋 **Planes de Viaje** - Plataformas para planificación y ejecución de itinerarios
+- 📊 **Dashboards Logísticos** - Interfaces para monitoreo operativo y toma de decisiones
+- 🔄 **Sistemas de Tracking** - Seguimiento en tiempo real de flotas y envíos
 
 ### 🛠 Stack Tecnológico Principal
 - ⚛️ **Frontend:** React.js, JavaScript, HTML5, CSS3
